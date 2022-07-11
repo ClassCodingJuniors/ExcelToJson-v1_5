@@ -1,0 +1,21 @@
+html {
+    height: 100%;
+  }
+  
+  #drop {
+    border: 2px dashed #bbb;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    padding: 25px;
+    text-align: center;
+    font: 20pt bold, "Vollkorn";
+    color: rgb(81, 4, 4);
+  }
+  #b64data {
+    width: 100%;
+  }
+  a {
+    text-decoration: none;
+  }
+  
